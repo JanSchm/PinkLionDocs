@@ -14,13 +14,13 @@ theme:
       - navigation.tabs
       - navigation.tracking
       - navigation.instant
-      - toc.integrate
+      # - toc.integrate
 hide:
   - navigation
 nav:
-    - 'index.md'
-    - 'system-architecture.md'
-    - 'portfolio-optimizer.md'
+    - Home: 'index.md'
+    - Platform Architecture: 'platform-architecture.md'
+    - Portfolio Optimizer: 'portfolio-optimizer.md'
 extra:
   homepage: https://pinklion.xyz
 # extra_css:

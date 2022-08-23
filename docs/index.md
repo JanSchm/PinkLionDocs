@@ -1,17 +1,38 @@
+---
+hide:
+  - toc
+---
+
 # Home
+### Transparency is key.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+PinkLion has been build to enable people to make better investment decision. PinkLion improves financial asset portfolios by providing insights of how risk can be optimaly structured and lowered, as well as how it is possible to achieve more stable and increased asset returns. 
 
-## System architecture
+Trust and factual clarity is an integral part of the process when facing an investment decision.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Thus we are providing a detailed documentation for every single components that comprise the PinkLion Platform. In addition, we provide a in-depth explaination of how each platform component works and functions.
+
+Below find links to resources and technical documentation.
+
+
+## Platform architecture
+### Explore PinkLion's, API-first architecture
+
+The PinkLion Platform is a micro-service architecture with multiple services. Learn more about each service and the capability it provides.
+
+<figure markdown>
+  ![Image title](assets/img/High-Level Architecture PinkLion.png)
+  <figcaption>High-level platform architecture and applications comprising PinkLion</figcaption>
+</figure>
+
+
 
 ## Portfolio Optimizer
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Learn About PinkLion's Portfolio Optimizer
+
+
+<figure markdown>
+  ![Image title](assets/img/Portfolio Optimizer PinkLion.png)
+  <figcaption>High-level portfolio optimizer architecture of PinkLion</figcaption>
+</figure>
