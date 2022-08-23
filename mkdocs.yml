@@ -1,1 +1,30 @@
-site_name: My Docs
+site_name: PinkLion Documentation
+
+theme:
+  name: material
+  palette:
+    # primary: pink
+    primary: deep purple
+    accent: deep purple
+  font:
+    text: Open Sans    
+  logo: assets/img/lion-head.png
+  favicon: assets/img/favicon-32x32.png
+  features:
+      - navigation.tabs
+      - navigation.tracking
+      - navigation.instant
+      - toc.integrate
+hide:
+  - navigation
+nav:
+    - 'index.md'
+    - 'system-architecture.md'
+    - 'portfolio-optimizer.md'
+extra:
+  homepage: https://pinklion.xyz
+# extra_css:
+#   - stylesheets/extra.css  
+markdown_extensions:
+  - attr_list
+  - md_in_html  
