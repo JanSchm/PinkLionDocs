@@ -1,21 +1,21 @@
 ---
 hide:
+  - navigation
   - toc
 ---
 
-# Home
-### Transparency is key.
+# Transparency is key
 
-PinkLion has been build to enable people to make better investment decision. PinkLion improves financial asset portfolios by providing insights of how risk can be optimaly structured and lowered, as well as how it is possible to achieve more stable and increased asset returns. 
+PinkLion has been build to enable people to make better investment decision. PinkLion improves financial asset portfolios by providing insights of how risk can be optimally structured and lowered, as well as how more stable and increased asset returns can be achieved. 
 
-Trust and factual clarity is an integral part of the process when facing an investment decision.
+Trust and factual clarity is an integral part when making financial investment decision.
 
 Thus we are providing a detailed documentation for every single components that comprise the PinkLion Platform. In addition, we provide a in-depth explaination of how each platform component works and functions.
 
 Below find links to resources and technical documentation.
 
 
-## Platform architecture
+# Platform architecture
 ### Explore PinkLion's, API-first architecture
 
 The PinkLion Platform is a micro-service architecture with multiple services. Learn more about each service and the capability it provides.
@@ -27,7 +27,7 @@ The PinkLion Platform is a micro-service architecture with multiple services. Le
 
 
 
-## Portfolio Optimizer
+# Portfolio Optimizer
 
 ### Learn About PinkLion's Portfolio Optimizer
 
