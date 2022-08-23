@@ -1,0 +1,2 @@
+# PinkLionDocs
+Documentation of PinkLion
