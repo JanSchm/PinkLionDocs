@@ -8,8 +8,8 @@ theme:
     accent: deep purple
   font:
     text: Open Sans    
-  logo: assets/img/lion-head.png
-  favicon: assets/img/favicon-32x32.png
+  logo: docs/assets/img/lion-head.png
+  favicon: docs/assets/img/favicon-32x32.png
   features:
       - navigation.tabs
       - navigation.tracking
@@ -18,9 +18,9 @@ theme:
 hide:
   - navigation
 nav:
-    - Home: 'index.md'
-    - Platform Architecture: 'platform-architecture.md'
-    - Portfolio Optimizer: 'portfolio-optimizer.md'
+    - Home: 'docs/index.md'
+    - Platform Architecture: 'docs/platform-architecture.md'
+    - Portfolio Optimizer: 'docs/portfolio-optimizer.md'
 extra:
   homepage: https://pinklion.xyz
 # extra_css:

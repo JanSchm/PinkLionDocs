@@ -15,7 +15,7 @@ Thus we are providing a detailed documentation for every single components that 
 Below find links to resources and technical documentation.
 
 
-# Platform architecture
+## Platform architecture
 ### Explore PinkLion's, API-first architecture
 
 The PinkLion Platform is a micro-service architecture with multiple services. Learn more about each service and the capability it provides.
@@ -27,7 +27,7 @@ The PinkLion Platform is a micro-service architecture with multiple services. Le
 
 
 
-# Portfolio Optimizer
+## Portfolio Optimizer
 
 ### Learn About PinkLion's Portfolio Optimizer
 
